@@ -1,0 +1,52 @@
+{
+    "players": [
+        {
+            "Round": 1,
+            "PlayerID": 12,
+            "ScoreWay": 0,
+            "Score1": 4,
+            "Score2": 5,
+            "TotalSummary": 9
+        },
+        {
+            "Round": 2,
+            "PlayerID": 12,
+            "ScoreWay": 1,
+            "Score1": 5,
+            "Score2": 5,
+            "TotalSummary": 10
+        },
+        {
+            "Round": 3,
+            "PlayerID": 12,
+            "ScoreWay": 0,
+            "Score1": 4,
+            "Score2": 5,
+            "TotalSummary": 32
+        },
+        {
+            "Round": 4,
+            "PlayerID": 12,
+            "ScoreWay": 2,
+            "Score1": 10,
+            "Score2": 0,
+            "TotalSummary": 32
+        },
+        {
+            "Round": 5,
+            "PlayerID": 12,
+            "ScoreWay": 1,
+            "Score1": 5,
+            "Score2": 5,
+            "TotalSummary": 32
+        },
+        {
+            "Round": 6,
+            "PlayerID": 12,
+            "ScoreWay": 0,
+            "Score1": 4,
+            "Score2": 5,
+            "TotalSummary": 32
+        }
+    ]
+}
